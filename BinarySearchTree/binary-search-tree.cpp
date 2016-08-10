@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <iomanip>
-#include "Node.h"
+#include "node.h"
 #include <algorithm>
 #include <queue>
 #include <string.h>

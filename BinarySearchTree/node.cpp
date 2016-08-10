@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Node.h"
+#include "node.h"
 
 Node::Node() {
 	value = 0;

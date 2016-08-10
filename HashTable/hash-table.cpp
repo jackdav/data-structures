@@ -202,9 +202,9 @@ void read(HashTable &ht) {
 		lnames[i] = name;
 	}
 	ifstream fn;
-	fn.open("firstNames.txt");
+	fn.open("names/firstNames.txt");
 	ifstream ln;
-	ln.open("lastNames.txt");
+	ln.open("names/lastNames.txt");
 	int i = 0;
 	while (i < 70) {
 		fn >> fnames[i];
